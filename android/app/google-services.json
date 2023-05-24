@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "764836204733",
+    "project_id": "flutter-chart-app-53d26",
+    "storage_bucket": "flutter-chart-app-53d26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764836204733:android:e64679327cb3a9d21127d4",
+        "android_client_info": {
+          "package_name": "com.example.chart2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764836204733-d1tvuem481jfddqttjabhqhe3v3o3o5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-hAP1TZgJI1LnLQ4Rp4yYwLLWgkodrOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764836204733-d1tvuem481jfddqttjabhqhe3v3o3o5f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764836204733-l41f3bunbhsvp8fdst02lv1t8h7in9u2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chart2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
