@@ -27,7 +27,7 @@ class ChatMessages extends StatelessWidget {
         }
         if (!chatSnapshots.hasData || chatSnapshots.data!.docs.isEmpty) {
           return const Center(
-            child: Text('No messages found!'),
+            child: Text('ບໍ່ມີຂໍ້ຄວາມ!'),
           );
         }
         final loadedMessages = chatSnapshots.data!.docs;
